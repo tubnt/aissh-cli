@@ -1,0 +1,14 @@
+{
+  "name": "aissh-cli",
+  "version": "0.1.0",
+  "description": "AISSH CLI — AI Server Control Plane CLI Client",
+  "bin": {
+    "aissh": "bin/aissh.js"
+  },
+  "keywords": ["aissh", "ssh", "cli", "mcp", "ai", "server", "management"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tubnt/aissh-cli"
+  }
+}
